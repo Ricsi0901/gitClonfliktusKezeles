@@ -9,6 +9,7 @@ public class GitKonfliktus {
 
         String nev1="SzR";    
         String nev2="X.Y";
+        String nev3;
 
     }
     
